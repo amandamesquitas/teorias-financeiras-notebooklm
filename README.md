@@ -4,7 +4,7 @@ Este README fornece uma visão geral estruturada do caderno temático "Teoria Fi
 
 
 # Contexto e Objetivos
-Contexto e objetivos: Este caderno dedica-se ao estudo da Evolução da Teoria Financeira, abrangendo desde os modelos matemáticos clássicos da Moderna Teoria de Finanças até as abordagens contemporâneas das Finanças Comportamentais e da Econofísica. O foco central reside na transição do paradigma da racionalidade ilimitada para a compreensão dos mercados como sistemas complexos influenciados pela psicologia humana.
+Este caderno dedica-se ao estudo da Evolução da Teoria Financeira, abrangendo desde os modelos matemáticos clássicos da Moderna Teoria de Finanças até as abordagens contemporâneas das Finanças Comportamentais e da Econofísica. O foco central reside na transição do paradigma da racionalidade ilimitada para a compreensão dos mercados como sistemas complexos influenciados pela psicologia humana.
 
 
 # Engenharia de Prompts e "Cicatrizes"
